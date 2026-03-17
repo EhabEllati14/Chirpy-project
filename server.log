@@ -1,0 +1,6 @@
+
+> chirpy-server@1.0.0 dev
+> npx tsc && node dist/index.js
+
+Server is running at http://localhost:8080
+[NON-OK] POST /api/validate_chirp - Status: 400
